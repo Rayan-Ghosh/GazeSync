@@ -52,7 +52,6 @@ Your final folder structure should look like this:
 ```
 GazeSync/
 ├── vosk-model-small-en-us-0.15/
-│   ├── ... (model files)
 └── main.py
 ```
 
