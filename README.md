@@ -5,7 +5,7 @@ A Python-based accessibility tool that enables hands-free computer control using
 ## Features
 
 * **Dual-Mode Operation**: Choose between a comprehensive **`Voice + Face Tracking`** mode or a simpler **`Voice-Only`** mode.
-* **Hands-Free Scrolling**: Navigate vertically and horizontally using head movements.
+* **Hands-Free Scrolling**: Navigate vertically and horizontally using head movements with MediaPipe ( https://github.com/google-ai-edge/mediapipe ).
 * **Voice-Activated Controls**: Use verbal commands to start, stop, scroll, zoom, and recalibrate.
 * **Intelligent Zoom**: Control browser zoom levels (`zoom in`, `zoom out`, `reset zoom`) with your voice.
 * **Automatic Recalibration**: The system intelligently re-centers the dead zone if you hold your head steady in the neutral position.
