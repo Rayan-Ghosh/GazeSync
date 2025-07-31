@@ -83,3 +83,16 @@ For the script to control scrolling, you **must** grant Accessibility permission
 
 * Go to `System Settings > Privacy & Security > Accessibility`.
 * Click the `+` button and add your terminal application (e.g., `Terminal`, `iTerm`) or your code editor (e.g., `Visual Studio Code`) to the list of allowed applications.
+
+### ⚠️ License Notice
+This project is licensed for viewing and usage only.
+
+You may:
+- Use the code as-is for personal or educational purposes.
+
+You may **not**:
+- Modify, alter, or create derivative works from this code.
+- Redistribute or republish this logic without permission.
+
+Contact the author for licensing questions or commercial usage rights.
+
