@@ -27,8 +27,8 @@ Follow these steps to set up the project on your local machine.
 First, clone this repository to your computer using Git:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone [https://github.com/Rayan-Ghosh/GazeSync.git](https://github.com/Rayan-Ghosh/GazeSync.git)
+cd GazeSync
 ```
 
 ### 2. Install Dependencies
